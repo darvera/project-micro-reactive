@@ -4,3 +4,6 @@
 [submodule "service-transac-reac"]
 	path = service-transac-reac
 	url = git@github.com:darvera/service-transac-reac.git
+[submodule "service-product-reac"]
+	path = service-product-reac
+	url = git@github.com:darvera/service-product-reac.git
