@@ -1,1 +1,4 @@
 # project-micro-reactive
+
+* Wilder Darwin Vera Quispe 
+* William Felipe Martel Quiroz
